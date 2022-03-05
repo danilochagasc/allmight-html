@@ -1,0 +1,93 @@
+.Fundo_sugestao{
+    position: absolute;
+    width: 960px;
+    height: 481px;
+    left: calc(50% - 960px/2 + 8px);
+    top: calc(50% - 481px/2 - 1.5px);
+}
+
+.Retangulão1 {
+    position: absolute;
+    width: 573px;
+    height: 61px;
+    left: calc(50% - 573px/2 - 0.5px);
+    top: calc(50% - 61px/2 - 148.5px);
+}
+
+.Retangulão2{
+    position: absolute;
+    width: 573px;
+    height: 128px;
+    left: calc(50% - 573px/2 - 0.5px);
+    top: calc(50% - 128px/2 - 27px);
+}
+
+.Retangulinho{
+    position: absolute;
+    width: 422px;
+    height: 53px;
+    left: calc(50% - 422px/2);
+    top: calc(50% - 53px/2 + 87.5px);
+}
+
+.Enviar{
+    position: absolute;
+    width: 162px;
+    height: 53px;
+    left: calc(50% - 162px/2);
+    top: calc(50% - 53px/2 + 90.5px);
+    font-family: Rock Salt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 57px;
+    text-align: center;
+}
+
+.Email {
+    position: absolute;
+    width: 561px;
+    height: 44px;
+    left: calc(50% - 561px/2 + 5.5px);
+    top: calc(50% - 44px/2 - 155px);
+    
+    font-family: Rock Salt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Sugestao{
+    position: absolute;
+    left: 72.36%;
+    right: -1.67%;
+    top: 87.01%;
+    bottom: 2.83%;
+    
+    font-family: Rock Salt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 57px;
+}
+
+input{
+    padding: 0;
+    border: none;
+    border-color: #c4c4c4;
+    background-color: #c4c4c4;
+    font-size: 24px;
+    line-height: 57px;
+}
+
+textarea{
+    padding: 0;
+    border: none;
+    border-color: #c4c4c4;
+    background-color: #c4c4c4;
+    font-size: 24px;
+    line-height: 57px;
+    width: 573px;
+    height: 85px;
+}

@@ -1,0 +1,178 @@
+html{
+    font-family: Rock Salt;
+    font-style: normal;
+    font-weight: normal;
+}
+
+input{
+    padding: 0;
+    border: none;
+    border-color: #c4c4c4;
+    background-color: #c4c4c4;
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Fundo_registro{
+    position: absolute;
+    width: 1093px;
+    height: 558px;
+    left: calc(50% - 1093px/2 - 0.5px);
+    top: calc(50% - 558px/2);
+}
+
+.Retangulão1{
+    position: absolute;
+    width: 573px;
+    height: 61px;
+    left: calc(50% - 573px/2 - 0.5px);
+    top: calc(50% - 61px/2 - 223.5px);
+
+}
+
+.Retangulão2{
+    position: absolute;
+    width: 573px;
+    height: 61px;
+    left: calc(50% - 573px/2 - 0.5px);
+    top: calc(50% - 61px/2 - 147.5px);
+    
+}
+
+.Retangulão3{
+    position: absolute;
+    width: 573px;
+    height: 61px;
+    left: calc(50% - 573px/2 - 0.5px);
+    top: calc(50% - 61px/2 - 68.5px);
+    
+}
+
+.Retangulão4{
+    position: absolute;
+    width: 573px;
+    height: 61px;
+    left: calc(50% - 573px/2 - 0.5px);
+    top: calc(50% - 61px/2 + 7.5px);
+    
+}
+
+.Retangulinho{
+    position: absolute;
+    width: 422px;
+    height: 53px;
+    left: calc(50% - 422px/2 - 2px);
+    top: calc(50% - 53px/2 + 99.5px);
+}
+
+.Prox{
+    position: absolute;
+    width: 162px;
+    height: 53px;
+    left: calc(50% - 162px/2 - 2px);
+    top: calc(50% - 53px/2 + 98.5px);
+    font-size: 24px;
+    line-height: 57px;
+    text-align: center;
+}
+
+.Nome{
+    position: absolute;
+    width: 560px;
+    height: 53px;
+    left: calc(50% - 560px/2 + 6px);
+    top: calc(50% - 53px/2 - 228.5px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Email{
+    position: absolute;
+    width: 561px;
+    height: 44px;
+    left: calc(50% - 561px/2 + 5.5px);
+    top: calc(50% - 44px/2 - 154px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Senha{
+    position: absolute;
+    width: 562px;
+    height: 53px;
+    left: calc(50% - 562px/2 + 5px);
+    top: calc(50% - 53px/2 - 69.5px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.ConfSenha{
+    position: absolute;
+    width: 562px;
+    height: 51px;
+    left: calc(50% - 562px/2 + 5px);
+    top: calc(50% - 51px/2 + 5.5px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Conf_Cadastro {
+    position: absolute;
+    width: 300px;
+    height: 53px;
+    left: calc(50% - 300px/2 + 2px);
+    top: calc(50% - 53px/2 + 98.5px);
+    font-size: 24px;
+    line-height: 57px;
+    text-align: center;
+}
+
+.Genero {
+    position: absolute;
+    width: 562px;
+    height: 57px;
+    left: calc(50% - 562px/2 + 5px);
+    top: calc(50% - 57px/2 - 221.5px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Nascimento{
+    position: absolute;
+    width: 562px;
+    height: 47px;
+    left: calc(50% - 562px/2 + 5px);
+    top: calc(50% - 47px/2 - 152.5px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Altura{
+    position: absolute;
+    width: 562px;
+    height: 58px;
+    left: calc(50% - 562px/2 + 5px);
+    top: calc(50% - 58px/2 - 67px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Objetivo{
+    position: absolute;
+    width: 562px;
+    height: 58px;
+    left: calc(50% - 562px/2 + 5px);
+    top: calc(50% - 58px/2 + 9px); 
+    font-size: 24px;
+    line-height: 57px;
+
+}
+
+option, select{
+    padding: 0;
+    border: none;
+    border-color: #c4c4c4;
+    background-color: #c4c4c4;
+    font-size: 24px;
+    line-height: 57px;
+}

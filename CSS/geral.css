@@ -1,0 +1,92 @@
+/*Design*/
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+/*Design*/
+a:hover{
+    text-decoration: none;
+    color: purple;
+}
+
+/*OK*/
+html, body{
+    padding: 0%;
+    margin: 0%;
+}
+
+/*OK*/
+body {
+    background-image: url(imagens/geral/fundo.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-size: cover;
+}
+
+/*OK*/
+header {
+    font-family: Rock Salt;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.Logo{    
+    position: absolute;
+    left: 0%;
+    right: 88.82%;
+    top: 0%;
+    bottom: 85.55%;
+}
+
+.AM{
+    position: absolute;
+    left: 12.99%;
+    right: 61.74%;
+    top: 2.05%;
+    bottom: 86.72%;
+
+    font-size: 48px;
+    line-height: 115px;
+}
+
+.Treinos{
+    position: absolute;
+    left: 45.56%;
+    right: 44.51%;
+    top: 4.98%;
+    bottom: 89.65%;
+
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Dieta{
+    position: absolute;
+    left: 59.65%;
+    right: 34.38%;
+    top: 4.98%;
+    bottom: 89.65%;
+
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Contato{
+    position: absolute;
+    left: 70.69%;
+    right: 17.78%;
+    top: 5.08%;
+    bottom: 89.55%;
+
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Login{
+    position: absolute;
+    left: 89.51%;
+    right: 6.74%;
+    top: 4.2%;
+    bottom: 89.65%;
+}

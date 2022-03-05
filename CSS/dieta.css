@@ -1,0 +1,122 @@
+/*Design*/
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+/*Design*/
+a:hover{
+    text-decoration: none;
+    color: purple;
+}
+
+/*OK*/
+html, body{
+    padding: 0%;
+    margin: 0%;
+}
+
+/*OK*/
+header {
+    font-family: Rock Salt;
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    background-image: url(imagens/geral/fundo_cortado.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-size: cover;
+}
+
+
+.Logo{    
+    position: absolute;
+    left: 0%;
+    right: 88.82%;
+    top: 0%;
+    bottom: 85.55%;
+}
+
+.AM{
+    position: absolute;
+    left: 12.99%;
+    right: 61.74%;
+    top: 2.05%;
+    bottom: 86.72%;
+
+    font-size: 48px;
+    line-height: 115px;
+}
+
+.Treinos{
+    position: absolute;
+    left: 45.56%;
+    right: 44.51%;
+    top: 4.98%;
+    bottom: 89.65%;
+
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Dieta{
+    position: absolute;
+    left: 59.65%;
+    right: 34.38%;
+    top: 4.98%;
+    bottom: 89.65%;
+
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Contato{
+    position: absolute;
+    left: 70.69%;
+    right: 17.78%;
+    top: 5.08%;
+    bottom: 89.55%;
+
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Login{
+    position: absolute;
+    left: 89.51%;
+    right: 6.74%;
+    top: 4.2%;
+    bottom: 89.65%;
+}
+
+
+.Titulo {
+    position: absolute;
+    left: 22.36%;
+    right: 22.29%;
+    top: 24.41%;
+    bottom: 69.73%;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.Conteudo {
+    position: absolute;
+    left: 3.75%;
+    right: 5.62%;
+    top: 45.31%;
+    bottom: 0.2%;
+    text-indent: 4em;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+}

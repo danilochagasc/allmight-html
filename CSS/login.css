@@ -1,0 +1,103 @@
+html{
+    font-family: Rock Salt;
+    font-style: normal;
+    font-weight: normal;
+}
+
+input{
+    padding: 0;
+    border: none;
+    background-color: #c4c4c4;
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Fundo_login {
+    position: absolute;
+    width: 960px;
+    height: 481px;
+    left: calc(50% - 960px/2 + 8px);
+    top: calc(50% - 481px/2 - 1.5px);
+}
+
+.Retangulão1{
+    position: absolute;
+    width: 573px;
+    height: 61px;
+    left: calc(50% - 573px/2 - 0.5px);
+    top: calc(50% - 61px/2 - 148.5px);
+
+}
+
+.Retangulão2{
+    position: absolute;
+    width: 573px;
+    height: 61px;
+    left: calc(50% - 573px/2 - 0.5px);
+    top: calc(50% - 61px/2 - 60.5px);
+}
+
+.Retangulinho{
+    position: absolute;
+    width: 422px;
+    height: 53px;
+    left: calc(50% - 422px/2 - 2px);
+    top: calc(50% - 53px/2 + 25.5px);
+}
+
+.Entrar {
+    position: absolute;
+    width: 162px;
+    height: 53px;
+    left: calc(50% - 162px/2 - 2px);
+    top: calc(50% - 53px/2 + 26.5px);
+    font-size: 24px;
+    line-height: 57px;
+    text-align: center;
+}
+
+.Email{
+    position: absolute;
+    width: 561px;
+    height: 44px;
+    left: calc(50% - 561px/2 + 5.5px);
+    top: calc(50% - 44px/2 - 155px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Senha{
+    position: absolute;
+    width: 562px;
+    height: 53px;
+    left: calc(50% - 562px/2 + 5px);
+    top: calc(50% - 53px/2 - 61.5px);
+    font-size: 24px;
+    line-height: 57px;
+}
+
+.Esqueceu{
+    position: absolute;
+    width: 241px;
+    height: 35px;
+    left: calc(50% - 241px/2 - 166.5px);
+    top: calc(50% - 35px/2 + 87.5px);
+    font-size: 18px;
+    line-height: 43px;
+    text-align: center;
+
+}
+
+.Registrar{
+    position: absolute;
+    width: 241px;
+    height: 35px;
+    left: calc(50% - 241px/2 + 165.5px);
+    top: calc(50% - 35px/2 + 87.5px);
+    font-family: Rock Salt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 43px;
+    text-align: center;
+}
